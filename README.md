@@ -1,6 +1,6 @@
-# Chat AI: A Open AI & Vercel AI SDK Poc
+# Chat AI: A Open AI & Vercel AI SDK testing project
 
-This is a [Next.js](https://nextjs.org/) project/PoC, that creates a basic Chatbot using the [Vercel AI SDK](https://sdk.vercel.ai/docs). It also uses the `shadcn/ui` to the UI components.
+This is a [Next.js](https://nextjs.org/) project, that creates a basic Chatbot using the [Vercel AI SDK](https://sdk.vercel.ai/docs). It also uses the `shadcn/ui` to the UI components.
 
 ## Getting Started
 
