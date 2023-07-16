@@ -45,7 +45,7 @@ export default function Chat() {
     });
 
   return (
-    <Card className="flex flex-col w-[480px] h-[85vh] min-h-[500px]">
+    <Card className="flex flex-col w-full sm:w-[480px] min-h-screen sm:h-[85vh] sm:min-h-[500px]">
       <CardHeader>
         <CardTitle>Chat AI</CardTitle>
         <CardDescription>Using Vercel SDK to create a chatbot.</CardDescription>
